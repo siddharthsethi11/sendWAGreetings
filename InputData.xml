@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:Request xmlns:tns="http://www.example.org/SendGreetings" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/SendGreetings SendGreetings.xsd ">
+  <tns:Name>Sonali</tns:Name>
+  <tns:GreetingType>Work Anniversary</tns:GreetingType>
+  <tns:YearsOfService>1</tns:YearsOfService>
+</tns:Request>
